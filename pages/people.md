@@ -211,21 +211,6 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/liule.jpg">
-            <img src="../assets/pics/liule.jpg"
-                  title="LiuleYang" alt="LiuleYang"/></a>
-        </div>
-
-        <div class="span5">
-            Liule Yang is a junior undergraduate student in Computer Science, Mathematics and Statistics. He is testing the applicability of unsupervised and semi-supervised machine learning methods on microbial genomic datasets related to plant and soil health.
-        </div>
-    </div>
-
-</div>
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
         <a href="../assets/pics/zhaoyi2.png">
             <img src="../assets/pics/zhaoyi2.png"
                   title="ZhaoyiZhang" alt="ZhaoyiZhang"/></a>
@@ -258,6 +243,7 @@ In my spare time, I enjoy swimming, running, biking, climbing and yoga!
 ---
 
 ### <a name="past"></a>Past members
+- [Liule Yang](https://www.linkedin.com/in/liule-yang-1386b0165/) (BS, Computer Science and Mathematics, UW-Madison 2021). Worked on BioKlustering website. He is attending MS Statistics program at ETH Zurich.
 - [Songyang Cheng](https://csy99.github.io/Blog/) (BBA, Information Systems + Computer Science, UW-Madison 2021). He tested the applicability of neural network models to microbial genomic datasets to predict important phenotypes like those related to antibiotic resistance. He is attending MEng EECS program at UC-Berkeley. 
 - Junting Wang is attending UMichigan at the Statistics PhD program
 - [Ritika Mittal](https://www.linkedin.com/in/ritika-mittal-011ab2178/) (BS Computer Science, UW-Madison 2022) worked on user-friendly open-source software that would allow biologists to visualize complex phylogenetic networks.
